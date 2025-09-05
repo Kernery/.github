@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border-radius:28px;">
   <img src="https://github.com/Kernery/.github/raw/main/kernery-logo-full.jpeg" width="50%" alt="Logo Kernery" style="max-width: 100%; border-radius:28px;">
 </div>
 <div align="center">
