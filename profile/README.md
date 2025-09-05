@@ -1,5 +1,5 @@
-<div align="center" style="max-width: 100%;">
-  <img src="https://github.com/Kernery/.github/raw/main/kernery-logo-full.jpeg" width="50%" alt="Logo Kernery">
+<div align="center">
+  <kbd><img src="https://github.com/Kernery/.github/raw/main/kernery-logo-full.jpeg" width="50%" alt="Logo Kernery"></kbd>
 </div>
 <div align="center">
   <p><b>Kernery is the shortcode to faster software development</b></p>
