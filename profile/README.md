@@ -1,8 +1,8 @@
-<div align="center" style="border-radius:28px;">
-  <img src="https://github.com/Kernery/.github/raw/main/kernery-logo-full.jpeg" width="50%" alt="Logo Kernery" style="max-width: 100%; border-radius:28px;">
+<div align="center">
+  <kbd><img src="https://github.com/Kernery/.github/raw/main/kernery-logo-full.jpeg" width="50%" alt="Logo Kernery" style="max-width: 100%;"></kbd>
 </div>
 <div align="center">
-  <p><b>Kernery is the shortcode to faster development</b></p>
+  <p><b>Kernery is the shortcode to faster software development</b></p>
 </div>
 
 The **Kernery** package contains all the essential files and functionality that power the entire kernery ecosystem — from the **dashboard** and **media management** to extensible batteries-included modules.  
